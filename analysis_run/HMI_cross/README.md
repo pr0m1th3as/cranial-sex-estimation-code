@@ -1,2 +1,2 @@
 # cranial-sex-estimation-code
-Delete this file before performing analysis
+Delete this file and retain the folder before performing analysis
